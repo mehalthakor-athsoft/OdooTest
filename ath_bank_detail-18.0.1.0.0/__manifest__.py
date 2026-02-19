@@ -12,6 +12,7 @@
     'installable': True,
     'application': True,
     'price': 12,
-    'currency': USD
+    'currency': "USD",
 }
+
 
